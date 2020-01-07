@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "posts": 
    {
   "name": "github.com/spf13/cobra",
   "url": "",
@@ -110,5 +110,5 @@
       }
   ]
 }
-  ]
+  
 }
