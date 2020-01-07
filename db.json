@@ -1,14 +1,114 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+   {
+  "name": "github.com/spf13/cobra",
+  "url": "",
+  "type": "",
+  "width": 108,
+  "depth": 157,
+  "position": {
+      "x": 0,
+      "y": 0
+  },
+  "numberOfLines": 0,
+  "numberOfMethods": 0,
+  "numberOfAttributes": 0,
+  "children": [
+      {
+          "name": "",
+          "url": "https://github.com/spf13/cobra/tree/master",
+          "type": "PACKAGE",
+          "width": 107,
+          "depth": 156,
+          "position": {
+              "x": 0,
+              "y": 0
+          },
+          "numberOfLines": 0,
+          "numberOfMethods": 0,
+          "numberOfAttributes": 0,
+          "children": [
+              
+              {
+                  "name": "zsh_completions.go",
+                  "url": "https://github.com/spf13/cobra/blob/master/zsh_completions.go",
+                  "type": "FILE",
+                  "width": 16,
+                  "depth": 18,
+                  "position": {
+                      "x": -45,
+                      "y": -57.5
+                  },
+                  "numberOfLines": 128,
+                  "numberOfMethods": 10,
+                  "numberOfAttributes": 12,
+                  "children": [
+                      {
+                          "name": "zshCompArgHint",
+                          "url": "https://github.com/spf13/cobra/blob/master/zsh_completions.go#L91",
+                          "type": "STRUCT",
+                          "width": 3,
+                          "depth": 3,
+                          "position": {
+                              "x": 0,
+                              "y": -1
+                          },
+                          "numberOfLines": 8,
+                          "numberOfMethods": 0,
+                          "numberOfAttributes": 2,
+                          "children": null
+                      },
+                      {
+                          "name": "Command",
+                          "url": "https://github.com/spf13/cobra/blob/master/zsh_completions.go#L0",
+                          "type": "STRUCT",
+                          "width": 1,
+                          "depth": 1,
+                          "position": {
+                              "x": -1,
+                              "y": 2
+                          },
+                          "numberOfLines": 80,
+                          "numberOfMethods": 7,
+                          "numberOfAttributes": 0,
+                          "children": null
+                      }
+                  ]
+              },
+              {
+                  "name": "shell_completions.go",
+                  "url": "https://github.com/spf13/cobra/blob/master/shell_completions.go",
+                  "type": "FILE",
+                  "width": 2,
+                  "depth": 2,
+                  "position": {
+                      "x": -52,
+                      "y": -46.5
+                  },
+                  "numberOfLines": 13,
+                  "numberOfMethods": 4,
+                  "numberOfAttributes": 0,
+                  "children": [
+                      {
+                          "name": "Command",
+                          "url": "https://github.com/spf13/cobra/blob/master/shell_completions.go#L0",
+                          "type": "STRUCT",
+                          "width": 1,
+                          "depth": 1,
+                          "position": {
+                              "x": 0,
+                              "y": 0
+                          },
+                          "numberOfLines": 21,
+                          "numberOfMethods": 7,
+                          "numberOfAttributes": 0,
+                          "children": null
+                      }
+                  ]
+              }
+          ]
+      }
+  ]
+}
+  ]
 }
